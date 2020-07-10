@@ -1,17 +1,21 @@
 @charset "utf-8";
 /* CSS Document */
 
-#showbox{
+#showbox{margin-left: 90px;
+	margin-right: 90px;
 	
 	
 }
 
-header{
+header{ background: #2450B5;
+	margin-left: 0px;
+	
 	
 	
 }
 
-section{
+#section{ background: #991653;
+	
 	
 	
 }
