@@ -5,6 +5,7 @@
 	margin-right: 90px;
 	
 	
+	
 }
 
 header{ background: #2450B5;
@@ -13,8 +14,15 @@ header{ background: #2450B5;
 	
 	
 }
+pre{
+	style="font-size:160%";
+}
 
 #section{ background: #991653;
+	float: none;
+	text-align: center;
+	margin-left: 90px;
+	margin-right: 90px;
 	
 	
 	
