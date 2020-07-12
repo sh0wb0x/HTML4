@@ -6,26 +6,45 @@
 	
 	
 	
+	
 }
 
-header{ background: #2450B5;
+header{ 
 	margin-left: 0px;
+	
 	
 	
 	
 }
 pre{
-	style="font-size:160%";
+	style: "font-size:160%";
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
 
-#section{ background: #991653;
-	float: none;
+#section{;
+	float: left;
 	text-align: center;
 	margin-left: 90px;
 	margin-right: 90px;
-	
-	
-	
+	overflow: auto;
+		
+}
+
+iframe{
+	float: right;
+	margin-bottom: 10px;
+}
+
+#textarea {
+  width: 100%;
+  height: 250px;
+  padding: 12px 50px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
 }
 
 
