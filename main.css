@@ -3,11 +3,16 @@
 
 #showbox{margin-left: 90px;
 	margin-right: 90px;
+	width: 1220px;
 	
 	
 	
 	
 }
+
+		
+
+
 
 header{ 
 	margin-left: 0px;
@@ -21,18 +26,19 @@ pre{
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
 
-#section{;
+form{
 	float: left;
 	text-align: center;
 	margin-left: 90px;
-	margin-right: 90px;
+	margin-right: 180px;
 	overflow: auto;
+	width:400px;
 		
 }
 
 iframe{
-	float: right;
-	margin-bottom: 10px;
+	float: left;
+	margin-bottom: 50px;
 }
 
 #textarea {
@@ -41,12 +47,13 @@ iframe{
   padding: 12px 50px;
   box-sizing: border-box;
   border: 2px solid #ccc;
-  border-radius: 4px;
-  background-color: #f8f8f8;
+  border-radius: 8px;
   font-size: 16px;
   resize: none;
 }
 
+footer{
+}
 
 
 
